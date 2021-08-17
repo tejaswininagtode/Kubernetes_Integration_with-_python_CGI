@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+}
+
+body {
+margin:0;
+padding:0;
+font-family: sans-serif;
+}
+
+body{
+  background-image: url("https://www.druva.com/assets/blog-kubernetes-og.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 1550px 800px;
+  
+}
+
+#h1{
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 280px;
+    left:55%;
+    font-family:Lucida Handwriting;
+    
+}
+.container {
+  position: absolute;
+  top: 42%;
+  left: 40%;
+  width: 13%;
+}
+
+
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #408adf;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+
+}
+
+
+
+
+.containerk {
+  position: absolute;
+  top: 54%;
+  left: 19%;
+  width: 30%;
+}
+
+.imagek {
+  opacity: 1;
+  display: block;
+  width: 350px;
+  height: 300px;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlek {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerk:hover .imagek {
+  opacity: 0.3;
+}
+
+.containerk:hover .middlek {
+  opacity: 1;
+}
+
+.textk {
+  background-color: #408adf;
+  color: white;
+  font-size: 16px;
+  padding: 16px 39px;
+
+
+}
