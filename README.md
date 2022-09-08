@@ -23,7 +23,7 @@ Example - when we write 'run deployment using httpd image' then it run complete 
 ##
 - [Video Link](https://www.linkedin.com/posts/tejaswininagtode_task9-taskabr09-worldrecordholder-activity-6820075849165938688-ROOs?utm_source=share&utm_medium=member_desktop)
 
-## Screenshots
+## 
 
 ![App Screenshot](https://github.com/tejaswininagtode/Kubernetes_Integration_with-_python_CGI/blob/main/Template/Web_UI.jpg)
 
